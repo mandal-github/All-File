@@ -1,0 +1,10 @@
+package string;
+
+public class Stgring1 {
+	 public static void main(String[] args) {
+		 String str ="Hello World";
+		 System.out.println(str.length()); 
+		
+	}
+
+	}
